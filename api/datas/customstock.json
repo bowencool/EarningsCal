@@ -1,5 +1,4 @@
 [
-    
     {
         "symbol": "GOOG",
         "companyName": "谷歌",
@@ -34,7 +33,7 @@
         "symbol": "XPEV",
         "companyName": "小鹏汽车",
         "industry": "汽车"
-    }, 
+    },
     {
         "symbol": "AMZN",
         "companyName": "亚马逊",
@@ -49,5 +48,5 @@
         "symbol": "COIN",
         "companyName": "Coinbase",
         "industry": "金融科技"
-    },
+    }
 ]

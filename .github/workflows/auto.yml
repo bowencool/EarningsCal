@@ -31,8 +31,12 @@ jobs:
         SHOULD_GEN_SELECTED: ${{ vars.SHOULD_GEN_SELECTED }}
         SHOULD_GEN_ALL: ${{ vars.SHOULD_GEN_ALL }}
 
+
     - name: Waiting for 10 seconds
       run: sleep 10
+
+    - name: Delete expired data files
+      run: node ./api/delete_expired.js ./storedData
 
     - name: Run genAllIcs script
       run: node ./api/github_gen.js

@@ -6,28 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:GymB6MiuAzC2PHz-ru7-n
-SUMMARY:沃尔玛 盘前发布财报
-DTSTAMP:20260218T165549Z
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:财务季度：Jan/2026。\n代码：WMT，公司：沃尔玛，行业: 零售。\n预计每股收益: $0.73，当前市值: $1\,
-	026\,956\,013\,311。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WMT \n在富
-	途查看：https://www.futunn.com/hk/stock/WMT-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l91NlrcL_xbfhMyjV-E9j
+UID:7orQVgzeuKZ8iRVueJWSy
 SUMMARY:家得宝 盘前发布财报
-DTSTAMP:20260218T165549Z
+DTSTAMP:20260220T050629Z
 DTSTART;VALUE=DATE:20260224
 DESCRIPTION:财务季度：Jan/2026。\n代码：HD，公司：家得宝，行业: 零售。\n预计每股收益: $2.51，当前市值: $381\
-	,320\,719\,214。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HD \n在富途查看：h
+	,798\,564\,727。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HD \n在富途查看：h
 	ttps://www.futunn.com/hk/stock/HD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7426AeId53J8pTWQ5qqEa
+UID:UiGpZeefcdcRnZByFB9ZJ
 SUMMARY:赛富时 盘后发布财报
-DTSTAMP:20260218T165549Z
+DTSTAMP:20260220T050629Z
 DTSTART;VALUE=DATE:20260225
 DESCRIPTION:财务季度：Jan/2026。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $2.14，当前市值: $1
-	72\,679\,730\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
+	75\,959\,230\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
 	查看：https://www.futunn.com/hk/stock/CRM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CZ4AV9LkzOoF0c-X9mRCU
+UID:hQV97EZid_OK5x-MKDOTZ
 SUMMARY:耐克 发布财报
-DTSTAMP:20260218T165549Z
+DTSTAMP:20260220T050629Z
 DTSTART;VALUE=DATE:20260319
-DESCRIPTION:财务季度：Feb/2026。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.32，当前市值: $95\,
-	958\,452\,118。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：h
+DESCRIPTION:财务季度：Feb/2026。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.32，当前市值: $97\,
+	039\,132\,001。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：h
 	ttps://www.futunn.com/hk/stock/NKE-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
